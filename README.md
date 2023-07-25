@@ -30,11 +30,11 @@ start nginx.exe
 WeatherDemoApplication
 ```
 
-全部完成启动后，浏览器访问http://localhost:9969/,如图：
+全部完成启动后，浏览器访问http://localhost:9969 如图：
 
 ![image](https://cdn.staticaly.com/gh/YangLuchao/img_host@master/20230725/image.3ih39hw7v5q0.webp)
 
-==注意：开发测试所用浏览器为EDGE，其他浏览器未适配==
+**注意：开发测试所用浏览器为EDGE，其他浏览器未适配**
 
 # 后端
 
@@ -44,13 +44,13 @@ WeatherDemoApplication
 
 **所用技术栈：**
 
-Springboot + springboot-web + lombok + openweathermap-api + pinyin4j
+JDK17 + Springboot + springboot-web + lombok + openweathermap-api + pinyin4j
 
 # 前端
 
 **前端所用技术栈：**
 
-React + Ratd + axios 
+React + Rantd + axios 
 
 
 
